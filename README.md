@@ -2,7 +2,7 @@
 - 👀 I’m interested in data
 - 🌱 I’m currently learning data analytics
 - 💞️ I’m looking to collaborate on healthcare projects
-- 📫 raphazam@hotmail.com
+- 📫 raphazamb@hotmail.com
 
 <!---
 raphazamb/raphazamb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
